@@ -5,9 +5,7 @@ The Equipment Maintenance App is a web-based application designed to help manage
 
 ## Features
 - Equipment inventory management
-- Maintenance scheduling
 - Maintenance record keeping
-- User-friendly interface
 - Responsive design for desktop and mobile use
 
 ## Technologies Used
@@ -42,12 +40,12 @@ Final project for CSC6210 - This web app allows for the user to add, edit, delet
 
 ## Screenshots
 ### Equipment List
-![Equipment List](../imgs/homePage.png)
+![Equipment List](./imgs/homePage.png)
 
 ### Add Equipment Modal
-![Add Equipment Modal](../imgs/addEquipmentModal.png)
+![Add Equipment Modal](./imgs/addEquipmentModal.png)
 
 ### Maintenance/Usage Details
-![Maintenance/Usage Details](../imgs/maintenanceUsage.png)
+![Maintenance/Usage Details](./imgs/maintenanceUsage.png)
 
 
